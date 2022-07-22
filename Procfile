@@ -1,1 +1,1 @@
-worker: npm install --global yarn && yarn && npm i -g pm2 && pm2 start zeeone.js
+worker: npm install && npm i -g pm2 && pm2 start zeeone.js
